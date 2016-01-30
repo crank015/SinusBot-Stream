@@ -10,4 +10,4 @@ Edit the config.php with your Informations
 
 - Apache 2 Webserver
 - PHP 5
-- Curl
+- Php5-Curl
