@@ -1,6 +1,6 @@
 <?php
 
-//IP ADRESSE
+//IP ADRESSE - PLEASE INSERT YOUR IP NOT LOCALHOST..
 $ip = "127.0.0.1";
 //PORT
 $port = "8087";
