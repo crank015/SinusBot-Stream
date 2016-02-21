@@ -4,7 +4,7 @@
 $ip = "127.0.0.1";
 //PORT
 $port = "8087";
-//IP WITH PORT
+//IP WITH PORT DO NOT EDIT
 $ipport = $ip.":".$port;
 
 //LOGIN USER
